@@ -2,4 +2,5 @@
     <string name="app_name">My First App</string>
     <string name="edit_message">My First App</string>
     <string name="button_send">Send</string>
+    <string name="edit_message2">My First App</string>
 </resources>
