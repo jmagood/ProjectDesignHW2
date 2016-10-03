@@ -1,6 +1,12 @@
 <resources>
     <string name="app_name">My First App</string>
-    <string name="edit_message">My First App</string>
+    <string name="edit_message">First line of message</string>
     <string name="button_send">Send</string>
-    <string name="edit_message2">My First App</string>
+    <string name="edit_message2">Say something else</string>
+    <string name ="apps_name">G+ Login</string>
+    <string name ="action_settings">Settings</string>
+    <!--Button text-->
+    <string name ="btn_logout_from_google">Logout from Google</string>
+    <string name ="btn_revoke_access">Revoke Access</string>
+    <string name ="skip_login_from_google">Skip G+ login</string>
 </resources>

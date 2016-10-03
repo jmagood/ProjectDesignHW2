@@ -23,5 +23,36 @@ public class DisplayMessageActivity extends AppCompatActivity {
         layout.addView(textView);
 
     }
+    @Override
+    protected void onResume() {
+        //TODO auto-generated method stub
+        super.onResume();
+    }
+    @Override
+    protected void onStart() {
+        //TODO auto-generated method stub
+        super.onStart();
+    }
+    @Override
+    protected void onPause() {
+        //TODO auto-generated method stub
+        super.onPause();
+    }
+    @Override
+    protected void onStop() {
+        //TODO auto-generated method stub
+        super.onStop();
+    }
+    @Override
+    protected void onRestart() {
+        //TODO auto-generated method stub
+        super.onRestart();
+    }
+
+    @Override
+    protected void onDestroy() {
+        //TODO auto-generated method stub
+        super.onDestroy();
+    }
 
   }

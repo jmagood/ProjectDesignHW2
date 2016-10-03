@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Second App Try</string>
+    <string name="edit_message1">What is your name?</string>
+    <string name="button_send">Send</string>
+    <string name="hello_message">Hi there, </string>
+    <string name="edit_message2">Do you like my app?</string>
+    <string name="button_yes">YES!!</string>
+    <string name="Thanks_message">I am glad you do!</string>
+    <string name="button_no">No</string>
+    <string name="hope_message">I hope you can learn to love it!</string>
+    <string name="suggestions">What is something you would like to see?</string>
+    <string name="edit_message3">What should I do better?</string>
+    <string name="suggestions_response">Thanks for your feedback!</string>
+    <string name="Login_Invite">Would you like to try a Google Login?</string>
+    <string name="login">That is too bad, because it crashes everything when I try to add it!</string>
+    <string name="no_login">Good, because it does not work!</string>
+    <string name="apps_name">G+ Login</string>
+    <string name="action_settings">Settings</string>
+    <!--Button text-->
+    <string name="btn_logout_from_google">Logout from Google</string>
+    <string name="btn_revoke_access">Revoke Access</string>
+    <string name="skip_login_from_google">Skip G+ login</string>
+
+
+</resources>

@@ -4,7 +4,7 @@ android {
     compileSdkVersion 24
     buildToolsVersion "24.0.2"
     defaultConfig {
-        applicationId "com.example.jmago.myfirstapp"
+        applicationId "com.example.jmago.secondtryapplication"
         minSdkVersion 15
         targetSdkVersion 24
         versionCode 1
@@ -26,8 +26,4 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:24.2.1'
     testCompile 'junit:junit:4.12'
-    compile 'com.google.android.gms:play-services-appindexing:8.4.0'
-    compile 'com.google.android.gms:play-services-auth:9.2.1'
-    //glide is added to load the g+ profile image
-    compile 'com.github.bumptech.glide:glide:3.7.0'
 }
